@@ -1,0 +1,2 @@
+# Modelagem_estatistica_em_indicadores_socioeconomicos
+Modelagem estatística em indicadores Socioeconômicos
