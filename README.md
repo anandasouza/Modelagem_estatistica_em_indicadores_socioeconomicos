@@ -6,11 +6,15 @@ A partir de um modelo estatístico, foi possível identificar os principais dete
 
 O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 
-pandas / numpy → manipulação e limpeza de dados
-seaborn / matplotlib → visualização estatística
-statsmodels → construção e análise do modelo estatístico (OLS)
-scikit-learn (StandardScaler) → padronização das variáveis
-warnings → controle de mensagens de alerta durante a execução
+1. pandas / numpy → manipulação e limpeza de dados
+
+2. seaborn / matplotlib → visualização estatística
+
+3. statsmodels → construção e análise do modelo estatístico (OLS)
+
+4. scikit-learn (StandardScaler) → padronização das variáveis
+   
+
 
 
 ### Metodologia
